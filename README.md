@@ -1,6 +1,6 @@
 
-### Name: AKSHAYAA M
-### Reg No. : 212222230009
+### Name: MARINO SARISHA T
+### Reg No. : 212223240084
 
 # PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
