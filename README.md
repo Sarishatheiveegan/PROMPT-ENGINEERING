@@ -15,7 +15,6 @@ It moves beyond prediction and classification, focusing on *generation and creat
 
 Generative AI leverages **deep learning models** like transformers, GANs, and diffusion models. While its concept dates back decades, the true revolution began with **Generative Adversarial Networks (GANs)** in 2014 and transformer models like **GPT** in recent years.
 
-![Generative AI Concept](https://raw.githubusercontent.com/rajtilakjee/Generative-AI-Images/main/generative_ai_intro.png)
 
 ---
 
@@ -37,8 +36,8 @@ Examples:
 
 **VAEs** compress input data into a smaller latent space (via an *encoder*) and then reconstruct it (via a *decoder*).  
 This structure allows them to generate new variations of the input.
+<img width="527" height="336" alt="image" src="https://github.com/user-attachments/assets/dbcc548a-a0f8-416a-9a7e-2d5918be5f32" />
 
-![VAE Diagram](https://raw.githubusercontent.com/rajtilakjee/Generative-AI-Images/main/vae_diagram.png)
 
 ---
 
@@ -49,8 +48,8 @@ GANs consist of two competing networks:
 - **Discriminator:** Distinguishes between real and fake data.  
 
 Through training, both networks improve until the generated data looks convincingly real.
+<img width="1032" height="511" alt="image" src="https://github.com/user-attachments/assets/29fbc2c7-8930-4871-9e7b-fbad5090a135" />
 
-![GAN Architecture](https://raw.githubusercontent.com/rajtilakjee/Generative-AI-Images/main/gan_architecture.png)
 
 ---
 
@@ -58,8 +57,8 @@ Through training, both networks improve until the generated data looks convincin
 
 Diffusion models gradually add noise to images during training and learn to **reverse** the process.  
 This produces clear, realistic, and diverse outputs — making them ideal for high-quality image generation.
+<img width="645" height="325" alt="image" src="https://github.com/user-attachments/assets/a5458f70-6e67-4921-a4e3-a5dd2e880f89" />
 
-![Diffusion Model Process](https://raw.githubusercontent.com/rajtilakjee/Generative-AI-Images/main/diffusion_model_process.png)
 
 ---
 
@@ -72,8 +71,8 @@ They rely on **self-attention mechanisms** to understand the relationship betwee
 - Self-Attention  
 - Feedforward Neural Networks  
 - Positional Encoding  
+<img width="512" height="306" alt="image" src="https://github.com/user-attachments/assets/6d85e74c-2221-4359-8e0e-078df9bd9062" />
 
-![Transformer Architecture](https://raw.githubusercontent.com/rajtilakjee/Generative-AI-Images/main/transformer_architecture.png)
 
 ---
 
@@ -87,8 +86,8 @@ Generative AI is widely used in:
 - **Education:** Personalized tutoring  
 - **Entertainment:** Music, video, and game content  
 - **Programming:** Code generation and completion  
+<img width="517" height="373" alt="image" src="https://github.com/user-attachments/assets/17f6ba73-8c6e-461a-8e8b-8d8c5f2273f8" />
 
-![Applications of Generative AI](https://raw.githubusercontent.com/rajtilakjee/Generative-AI-Images/main/generative_ai_applications.png)
 
 ---
 
@@ -126,7 +125,6 @@ They understand context, grammar, and semantics to generate text that resembles 
 4. **Prediction:** The next word is predicted based on prior context.  
 5. **Training:** Millions of examples fine-tune the model’s parameters.
 
-![Self-Attention Mechanism](https://raw.githubusercontent.com/rajtilakjee/Generative-AI-Images/main/self_attention.png)
 
 ---
 
@@ -145,9 +143,9 @@ They understand context, grammar, and semantics to generate text that resembles 
 - Customer support chatbots  
 - Academic writing and research  
 - Code generation (GitHub Copilot)  
-- Healthcare documentation  
+- Healthcare documentation
+  <img width="296" height="285" alt="image" src="https://github.com/user-attachments/assets/0a3ba170-06f0-478c-96a3-fed47728b151" />
 
-![LLM Applications](https://raw.githubusercontent.com/rajtilakjee/Generative-AI-Images/main/llm_applications.png)
 
 ---
 
